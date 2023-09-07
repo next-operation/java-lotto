@@ -14,3 +14,7 @@ jobs:
           pullRequestOpened: |
             👋 @{{ author }}
             구현하시느라 고생하셨어요! 조금만 기다려주시면 리뷰어가 리뷰를 해줄거에요. 😄
+          issuesOpenedReactions: 'hooray, +1'
+          issuesOpened: |
+            👋 @{{ author }}
+            구현하시느라 고생하셨어요! 조금만 기다려주시면 리뷰어가 리뷰를 해줄거에요. 😄
